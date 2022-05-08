@@ -28,7 +28,7 @@
     const deadline = document.querySelector('.tempo');
     const items = document.querySelectorAll('.div-format h4');
 
-    let futureDate = new Date(2022,3,30,0,0);
+    let futureDate = new Date(2030,3,30,0,0);
 
     const year = futureDate.getFullYear();
     const hours = futureDate.getHours();
